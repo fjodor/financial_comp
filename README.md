@@ -3,5 +3,6 @@
 
 Comparing financial compensation between federal states of Germany.
 
-This is fun!
+Creating an HTML report from R Markdown.
 
+This is fun!
